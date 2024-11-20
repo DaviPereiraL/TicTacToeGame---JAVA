@@ -22,7 +22,7 @@ Este é um simples jogo da velha (Tic-Tac-Toe) desenvolvido em Java, utilizando 
 1. **Clonar o repositório:**
 
     ```bash
-    git clone https://github.com/seuusuario/tictactoegame.git
+    git clone https://github.com/DaviPereiraL/TicTacToeGame---JAVA.git
     ```
 
 2. **Navegar até o diretório do projeto:**
